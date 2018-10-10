@@ -38,11 +38,11 @@ img {
 
 .gifDiv{
 
-    /* making the images go in one line rather than block & adding spacing between the images*/
+    /* making the images go in one line rather than gblock & adding spacing between the images*/
 
     float: left;
 
-    margin: 3px;
+    margin: 6px;
 
 }
 
