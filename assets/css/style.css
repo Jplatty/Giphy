@@ -1,18 +1,12 @@
-body{
+#header{
 
-	background: url("../images/Rain.jpg");
+	background-image: url("../images/pic.jpeg");
 
 	background-size: 100%;
 
     background-repeat: no-repeat;
 
     color: black;
-
-}
-
-* {
-
-	box-sizing: border-box;
 
 }
 
